@@ -1,16 +1,25 @@
-# movieapp_200906
+# DDI_movieapp_200906
 
-A new Flutter project.
+[![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)](https://postimg.cc/MvzwBvyZ)
 
-## Getting Started
+<div align="center">
+  
+# Universidad Tecnológica de Xicotepec de Juárez
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Ingeniería en Desarrollo y Gestión de Software
+## Mateo Maldonado Tolentino 
+## 10A
+### Desarrollo Móvil Integral
+&nbsp;
+&nbsp;
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://github.com/MattMT/DMI_src/blob/main/ss08.jpeg)]((https://github.com/MattMT/DMI_src/blob/main/ss08.jpeg))
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+&nbsp;
+&nbsp;
+|  Característica |  Información |
+| :------------: | :------------: |
+| Nombre  |  Práctica 08 Continuación de la aplicación de peliculas |
+| Descripción  | En esta práctica se llevó a cabo la adicion de varios archivos que son necesarios para tener una estructura adecuada para nuestra aplicación, como lo es; agregar el archivo media_list, la carpeta model y dentro de ella el archivo Model, así como la carpeta common con los archivos Constants y HtthHandler dentro de la misma, ademas de agregar la librería http para poder utilizarla dentro del proyecto. |
+|  Fecha de Carga | 25/09/23  |
